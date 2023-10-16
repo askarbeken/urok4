@@ -1,0 +1,14 @@
+C:\Users\abeke\OneDrive\Рабочий стол\Домашка GeekBrains\C#4\просто папка\bin\Debug\net7.0\просто папка.exe
+C:\Users\abeke\OneDrive\Рабочий стол\Домашка GeekBrains\C#4\просто папка\bin\Debug\net7.0\просто папка.deps.json
+C:\Users\abeke\OneDrive\Рабочий стол\Домашка GeekBrains\C#4\просто папка\bin\Debug\net7.0\просто папка.runtimeconfig.json
+C:\Users\abeke\OneDrive\Рабочий стол\Домашка GeekBrains\C#4\просто папка\bin\Debug\net7.0\просто папка.dll
+C:\Users\abeke\OneDrive\Рабочий стол\Домашка GeekBrains\C#4\просто папка\bin\Debug\net7.0\просто папка.pdb
+C:\Users\abeke\OneDrive\Рабочий стол\Домашка GeekBrains\C#4\просто папка\obj\Debug\net7.0\просто папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abeke\OneDrive\Рабочий стол\Домашка GeekBrains\C#4\просто папка\obj\Debug\net7.0\просто папка.AssemblyInfoInputs.cache
+C:\Users\abeke\OneDrive\Рабочий стол\Домашка GeekBrains\C#4\просто папка\obj\Debug\net7.0\просто папка.AssemblyInfo.cs
+C:\Users\abeke\OneDrive\Рабочий стол\Домашка GeekBrains\C#4\просто папка\obj\Debug\net7.0\просто папка.csproj.CoreCompileInputs.cache
+C:\Users\abeke\OneDrive\Рабочий стол\Домашка GeekBrains\C#4\просто папка\obj\Debug\net7.0\просто папка.dll
+C:\Users\abeke\OneDrive\Рабочий стол\Домашка GeekBrains\C#4\просто папка\obj\Debug\net7.0\refint\просто папка.dll
+C:\Users\abeke\OneDrive\Рабочий стол\Домашка GeekBrains\C#4\просто папка\obj\Debug\net7.0\просто папка.pdb
+C:\Users\abeke\OneDrive\Рабочий стол\Домашка GeekBrains\C#4\просто папка\obj\Debug\net7.0\просто папка.genruntimeconfig.cache
+C:\Users\abeke\OneDrive\Рабочий стол\Домашка GeekBrains\C#4\просто папка\obj\Debug\net7.0\ref\просто папка.dll
